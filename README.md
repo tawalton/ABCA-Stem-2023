@@ -29,7 +29,7 @@ ABCA Stem 2023
     * cd abca_stem/ABCA-Stem-2023
     * ./tawalton/hello_world.py
 
-6. Write you first program to print "Hello World and Hello to <name>"
+6. Write you first program to print "Hello World and Hello to \<name\>"
 
 
 Helpful git commands:
